@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tristan and I'm working as a Staff Infrastructure Engineer.
+I'm Tristan and I'm working as a IT Security & Site Reliability Lead @sipgate.
 
 - 💬 Ask me about IaC and DevOps in general
 - 🌱 I’m currently learning rust
