@@ -5,7 +5,7 @@ I'm Tristan and I'm working as a IT Security & Site Reliability Lead @sipgate.
 - 💬 Ask me about IaC and DevOps in general
 - 🌱 I’m currently learning rust
 - 😄 Pronouns: he/him
-- 📫 How to reach me: 🐦 [@derveloper](https://twitter.com/derveloper)
+- 📫 How to reach me: 🐦 [@derveloper](https://chaos.social/@derveloper)
 
 <!--
 **derveloper/derveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
